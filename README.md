@@ -8,6 +8,7 @@ This project is an experiment in using rumps to create a lightweight menu bar ut
 ## Features
 - Menu bar timer display
 - Start a 25-minute Pomodoro session
+- Pause and resume the timer
 - Notification when session starts and ends
 
 ## Requirements
