@@ -30,4 +30,4 @@ This project is an experiment in using rumps to create a lightweight menu bar ut
 - `requirements.txt`: Python dependencies.
 
 ## Note
-This project is for learning and experimenting with rumps and Python menu bar apps.
+This project is for learning and experimenting with rumps to create menu bar apps.
